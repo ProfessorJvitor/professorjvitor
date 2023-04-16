@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**ProfessorJvitor/professorjvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é J. Vitor Martins.
 
-Here are some ideas to get you started:
+Sou professor de Matemática; Robótica e Pensamento Computacional na [SEED-PR](https://www.educacao.pr.gov.br/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
+
+### Contato
+📫 jvitormartins@escola.pr.gov.br
+
+📸 @jvitor3.14
+
+
+![](https://media.tenor.com/_S6V0L0a6nMAAAAd/math-meme.gif)
